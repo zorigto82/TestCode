@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-20T04:46:16" hostname="DESKTOP-2U7KBV1" time="0.083">
+  <properties/>
+  <testcase name="subtractPositive()" classname="CalculatorTest" time="0.083"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
